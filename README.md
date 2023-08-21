@@ -1,6 +1,6 @@
 # CrappyBirdXtreame
-## circuit diagram
-(https://github.com/hasibkyau/CrappyBirdXtreame/blob/main/PinMap.png))
+## Circuit diagram
+![](https://github.com/hasibkyau/CrappyBirdXtreame/blob/main/PinMap.png))
 
 ### OLED display -> ESP32
 1.	VCC -> 3v3
